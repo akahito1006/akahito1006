@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! I'm akahito ✨
+<a href="https://github.com/akahito1006/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akahito1006&theme=react&hide_title=true&show_icons=true&hide=stars&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akahito1006&layout=compact&theme=react&hide_title=true" />
+</a>
+</a>
 
 <!--
 **akahito1006/akahito1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
