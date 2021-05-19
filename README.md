@@ -1,4 +1,4 @@
-### Hello! I'm akahito ✨
+### Hello! I'm akahito1006 ✨
 <p align="left">
   <a href="https://github.com/akahito1006/akahito1006/">
     <img src="https://komarev.com/ghpvc/?username=akahito1006" alt="akahito1006"/>
