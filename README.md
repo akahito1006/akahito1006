@@ -3,6 +3,12 @@
   <a href="https://github.com/akahito1006/akahito1006/">
     <img src="https://komarev.com/ghpvc/?username=akahito1006" alt="akahito1006"/>
   </a>
+   <a href="http://qiita.com/akahito1006">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/akahito1006/posts.svg" />
+  </a>
+  <a href="http://qiita.com/akahito1006">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/akahito1006/contributions.svg" />
+  </a>
 </p>
 
 [![akahito1006's github trophy](https://github-profile-trophy.vercel.app/?username=akahito1006&row=1&theme=nord&margin-w=15&rank=SSS.SS,S,AAA,AA,A,B,C)](https://github.com/akahito1006/github-profile-trophy)
